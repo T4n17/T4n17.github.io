@@ -18,3 +18,6 @@ Passionate cybersecurity enthusiast with a strong foundation and interest in com
 - [dlog_suite](https://github.com/T4n17/dlog_suite)
 - [overflow_finder](https://github.com/T4n17/overflow_finder)
 - [adlab](https://github.com/T4n17/adlab)
+
+## Other projects
+- [phasevocoder_simulink](https://github.com/T4n17/phasevocoder_simulink)
